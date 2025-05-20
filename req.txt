@@ -1,0 +1,16 @@
+aiohttp
+beautifulsoup4
+bs4
+librosa
+numpy
+pandas
+pinecone-client
+torch
+transformers
+openai-whisper
+scipy
+soundfile
+langchain
+langchain-google-genai
+langchain-community
+sentence-transformers
